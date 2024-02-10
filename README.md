@@ -1,4 +1,4 @@
-Tic Tac Toe Terminal Game Using Java \n
+Tic Tac Toe Terminal Game Using Java <br>
 By @tusharpardhe18 \n
 The Tic Tac Toe Game project showcases my expertise in object-oriented programming and Java development. \n
 The game is designed with a clear and modular structure, emphasizing the principles of encapsulation, inheritance, and polymorphism. \n
